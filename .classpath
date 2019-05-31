@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="banking/.mvn/wrapper"/>
+	<classpathentry kind="src" path="banking/src/main/java"/>
+	<classpathentry kind="src" path="banking/src/test/java"/>
+	<classpathentry kind="lib" path="banking/target/banking-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="banking/target/classes"/>
+</classpath>
